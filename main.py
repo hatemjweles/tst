@@ -1,2 +1,5 @@
-dljgdlgj
- hhhhhhi there
+import numpy
+import os
+def func(x):
+	return x*x
+
